@@ -52,7 +52,7 @@ brew install openocd
 ### On Ubuntu (Linux)/MacOS
 Open up a terminal
 1.  `git clone http://github.com/Ofekgg/bldc_75100.git`
-2.  `cd bldc`
+2.  `cd bldc_75100`
 3.  Continue with [On all platforms](#on-all-platforms)
 
 ### On Windows
@@ -60,7 +60,7 @@ Open up a terminal
 1.  Open up a Windows Powershell terminal (Resist the urge to run Powershell as administrator, that will break things)
 2.  Type `choco install make`
 3.  `git clone http://github.com/Ofekgg/bldc_75100`
-4.  `cd bldc`
+4.  `cd bldc_75100`
 5.  Continue with [On all platforms](#on-all-platforms)
 
 ### On all platforms
