@@ -51,7 +51,7 @@ brew install openocd
 
 ### On Ubuntu (Linux)/MacOS
 Open up a terminal
-1.  `git clone http://github.com/Ofekgg/bldc_75100.git`
+1.  `git clone http://github.com/Ofekgg/bldc_75100`
 2.  `cd bldc_75100`
 3.  Continue with [On all platforms](#on-all-platforms)
 
