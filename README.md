@@ -47,11 +47,11 @@ brew install openocd
 - Chocolately: https://chocolatey.org/install
 - Git: https://git-scm.com/download/win. Make sure to click any boxes to add Git to your Environment (aka PATH)
 
-## Install Dev environment and build
+## Install Dev environment and build (For this fork)
 
 ### On Ubuntu (Linux)/MacOS
 Open up a terminal
-1.  `git clone http://github.com/vedderb/bldc.git`
+1.  `git clone http://github.com/Ofekgg/bldc_75100.git`
 2.  `cd bldc`
 3.  Continue with [On all platforms](#on-all-platforms)
 
@@ -59,7 +59,7 @@ Open up a terminal
 
 1.  Open up a Windows Powershell terminal (Resist the urge to run Powershell as administrator, that will break things)
 2.  Type `choco install make`
-3.  `git clone http://github.com/vedderb/bldc`
+3.  `git clone http://github.com/Ofekgg/bldc_75100`
 4.  `cd bldc`
 5.  Continue with [On all platforms](#on-all-platforms)
 
